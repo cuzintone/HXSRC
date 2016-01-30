@@ -1,0 +1,9 @@
+
+LIBRARY COMDLG32
+
+EXPORTS
+ CommDlgExtendedError
+ GetFileTitleA
+ GetOpenFileNameA
+ GetSaveFileNameA
+ PrintDlgA
